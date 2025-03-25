@@ -9,4 +9,3 @@ Ce programme implémente un tri par sélection simple en Python. Il permet à l'
 3. Lorsque vous avez terminé, appuyez simplement sur Entrée sans entrer de valeur.
 4. Le programme affichera les nombres triés dans l'ordre croissant.
 
-## Exemple d'utilisation
